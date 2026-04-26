@@ -1,0 +1,12 @@
+{
+  "pso_tcn": {
+    "filters": 97,
+    "kernel_size": 4,
+    "dropout": 0.19505502
+  },
+  "ga_tcn": {
+    "filters": 125,
+    "kernel_size": 5,
+    "dropout": 0.3144912365818803
+  }
+}
