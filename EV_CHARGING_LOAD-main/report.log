@@ -1,0 +1,66 @@
+2026-03-23 21:58:41,971 - pyswarms.single.global_best - INFO - Optimize for 5 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2026-03-23 21:58:42,888 - tensorflow - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-03-23 21:59:53,523 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.0032237560845178714, best pos: [1.07407845e+02 4.89966789e+00 4.47256158e-04]
+2026-03-23 22:19:03,017 - pyswarms.single.global_best - INFO - Optimize for 5 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2026-03-23 22:20:00,114 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.0032467609529848564, best pos: [5.48361218e+01 4.28065143e+00 1.77490495e-03]
+2026-03-23 22:23:12,219 - pyswarms.single.global_best - INFO - Optimize for 5 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2026-03-23 22:24:09,009 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.003220447583942813, best pos: [1.05820843e+02 4.72759462e+00 1.16913423e-03]
+2026-03-23 22:59:00,214 - pyswarms.single.global_best - INFO - Optimize for 5 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2026-03-23 22:59:00,301 - tensorflow - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-03-23 22:59:56,179 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.0032073479938086232, best pos: [1.15585284e+02 2.15752307e+00 2.35110031e-03]
+2026-03-24 16:26:19,435 - pyswarms.single.global_best - INFO - Optimize for 5 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2026-03-24 16:26:19,584 - tensorflow - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-03-24 16:27:33,291 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.003213888730380347, best pos: [4.29771210e+01 3.62115528e+00 1.97519666e-03]
+2026-03-26 08:26:07,797 - pyswarms.single.global_best - INFO - Optimize for 5 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2026-03-26 08:26:08,404 - tensorflow - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-03-26 08:27:19,699 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.003209892344922607, best pos: [8.82495406e+01 3.22399642e+00 2.76764690e-03]
+2026-03-26 09:23:31,155 - pyswarms.single.global_best - INFO - Optimize for 5 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2026-03-26 09:23:31,310 - tensorflow - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-03-26 09:24:36,337 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.003209520252948129, best pos: [6.71641206e+01 4.81074316e+00 1.83906319e-03]
+2026-03-31 10:52:40,691 - tensorflow - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-03-31 10:52:45,284 - tensorflow - WARNING - From C:\Users\Jerwin Gubat\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\backend\tensorflow\core.py:232: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2026-03-31 10:59:42,044 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2026-03-31 11:07:21,839 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2026-03-31 16:01:43,595 - tensorflow - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-03-31 16:01:44,736 - tensorflow - WARNING - From C:\Users\Jerwin Gubat\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\backend\tensorflow\core.py:232: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2026-03-31 16:05:46,014 - pyswarms.single.global_best - INFO - Optimize for 5 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2026-03-31 17:01:52,073 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 178.9242244786789, best pos: [50.6993151   3.79194496  0.16588769]
+2026-04-18 04:55:36,335 - pyswarms.single.global_best - INFO - Optimize for 5 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2026-04-18 04:55:37,242 - tensorflow - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-04-18 04:56:48,841 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.003196440436939649, best pos: [1.05903368e+02 2.03384205e+00 1.98608729e-03]
+2026-04-18 04:58:52,474 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2026-04-18 04:58:52,604 - tensorflow - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-04-18 05:04:38,598 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.004251848004686712, best pos: [4.97659126e+01 2.98261760e+00 3.79403090e-03]
+2026-04-18 05:21:59,131 - tensorflow - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-04-18 05:22:00,296 - tensorflow - WARNING - From C:\Users\Jerwin Gubat\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\backend\tensorflow\core.py:232: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2026-04-18 05:25:32,525 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2026-04-18 05:58:15,347 - tensorflow - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-04-18 05:58:16,279 - tensorflow - WARNING - From C:\Users\Jerwin Gubat\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\backend\tensorflow\core.py:232: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2026-04-18 06:01:48,131 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2026-04-18 08:52:57,589 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 168.83896562612526, best pos: [66.96192104  3.26876232  0.18375437]
+2026-04-20 13:43:13,375 - pyswarms.single.global_best - INFO - Optimize for 5 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2026-04-20 13:44:13,663 - tensorflow - WARNING - From C:\Users\ASUS TUF-Pc\AppData\Roaming\Python\Python313\site-packages\keras\src\backend\tensorflow\core.py:232: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2026-04-20 13:48:45,094 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.005898302041767599, best pos: [1.22275180e+02 4.89689610e+00 8.10313375e-03]
+2026-04-20 13:48:47,880 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2026-04-20 14:04:29,239 - pyswarms.single.global_best - INFO - Optimize for 5 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2026-04-20 14:09:57,371 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.00527527544641081, best pos: [1.21331361e+02 4.86178573e+00 9.15715746e-03]
+2026-04-20 15:18:18,844 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2026-04-20 15:18:18,852 - Comm - WARNING - No such comm: db5d0d87-43d4-4712-a4ab-18ca72f2d64b
+2026-04-20 15:18:46,188 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2026-04-20 20:30:07,877 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 170.89077222929302, best pos: [96.52501255  4.28485885  0.19505502]
+2026-04-22 22:11:11,825 - pyswarms.single.global_best - INFO - Optimize for 5 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2026-04-22 22:14:32,046 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.003226778563042302, best pos: [7.63700122e+01 4.80839813e+00 7.72872422e-04]
+2026-04-22 22:17:08,037 - pyswarms.single.global_best - INFO - Optimize for 5 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2026-04-22 22:20:05,553 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.0032022331557084883, best pos: [8.33812760e+01 4.15507362e+00 1.54888768e-03]
+2026-04-22 22:25:06,128 - pyswarms.single.global_best - INFO - Optimize for 5 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2026-04-22 22:27:42,085 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.00322933237182758, best pos: [5.69636884e+01 3.87679744e+00 3.43335582e-03]
+2026-04-22 22:43:15,546 - pyswarms.single.global_best - INFO - Optimize for 5 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2026-04-22 22:45:46,116 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.0032330240179726443, best pos: [8.55835062e+01 3.94224351e+00 7.71101390e-04]
+2026-04-26 11:44:20,966 - tensorflow - WARNING - From C:\Users\ASUS TUF-Pc\AppData\Roaming\Python\Python313\site-packages\keras\src\backend\tensorflow\core.py:232: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2026-04-26 11:49:12,891 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}

@@ -1,0 +1,12 @@
+{
+  "sarima_pso_tcn": {
+    "filters": 67,
+    "kernel_size": 5,
+    "learning_rate": 0.00183906319
+  },
+  "sarima_ga_tcn": {
+    "filters": 40,
+    "kernel_size": 4,
+    "learning_rate": 0.005730273212405962
+  }
+}
